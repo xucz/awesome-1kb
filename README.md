@@ -44,6 +44,7 @@
 
 ------
 * [https://github.com/daniellmb/MinPubSub](https://github.com/daniellmb/MinPubSub)
+* [smox-Fast 1kB state management with prefect API](https://github.com/132yse/smox)
 
 
 ### 其他
