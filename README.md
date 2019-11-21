@@ -39,6 +39,7 @@
 * [https://github.com/a-jie/RAFManager](https://github.com/a-jie/RAFManager)
 * [https://github.com/hparton/zoetrope](https://github.com/hparton/zoetrope)
 * [https://github.com/developit/snarkdown](https://github.com/developit/snarkdown)
+* [vue-create-root](https://github.com/any86/vue-create-root)
 
 ### 状态管理器
 
