@@ -28,6 +28,7 @@
 ------
 * [https://github.com/ghosh/microtip](https://github.com/ghosh/microtip)
 * [https://github.com/tipsy/bubbly-bg](https://github.com/tipsy/bubbly-bg)
+* [https://github.com/yisar/fre](https://github.com/yisar/fre)
 
 
 ### 工具库
