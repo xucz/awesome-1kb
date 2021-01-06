@@ -1,8 +1,6 @@
 # Awesome-1kb
 
-前端领域存在大量的工具库和框架，其中不乏很多优质的项目，在大量的项目中被前端开发人员所使用，前端行业的繁荣离不开这些项目和开发者的贡献，如果能让大家能更方面的查阅这些项目，同时也能让这些项目更为广泛的传播和使用，这是我们启动了这个项目的初衷。
-
-:honeybee:原则：这个项目只收集文件大小为1kb以内的精品:sparkles:。
+![](https://github.com/tnfe/awesome-1kb/blob/master/banner.png?raw=true)
 
 <br />
 
