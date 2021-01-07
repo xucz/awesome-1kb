@@ -45,6 +45,7 @@
 ------
 * [https://github.com/daniellmb/MinPubSub](https://github.com/daniellmb/MinPubSub)
 * [smox-Fast 1kB state management with prefect API](https://github.com/132yse/smox)
+* [一款纯净小巧的状态管理器，使用react-hooks原生实现，自动连接module组织架构](https://github.com/tnfe/clean-state)
 
 
 ### 其他
