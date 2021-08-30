@@ -32,10 +32,10 @@
 ### 工具库
 
 ------
+* [https://github.com/drawcall/RAFManager](https://github.com/drawcall/RAFManager)
 * [https://github.com/ruyadorno/simple-slider](https://github.com/ruyadorno/simple-slider)
 * [https://github.com/viljamis/ResponsiveSlides.js](https://github.com/viljamis/ResponsiveSlides.js)
 * [https://github.com/kbrsh/wade](https://github.com/kbrsh/wade)
-* [https://github.com/drawcall/RAFManager](https://github.com/drawcall/RAFManager)
 * [https://github.com/hparton/zoetrope](https://github.com/hparton/zoetrope)
 * [https://github.com/developit/snarkdown](https://github.com/developit/snarkdown)
 * [vue-create-root](https://github.com/any86/vue-create-root)
