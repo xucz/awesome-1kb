@@ -19,6 +19,7 @@
 ------
 * [https://github.com/BinarCode/vue-notifyjs](https://github.com/BinarCode/vue-notifyjs)
 * [https://github.com/figuarnieri/maskfy](https://github.com/figuarnieri/maskfy)
+* [https://github.com/jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp)
 
 
 ### ui框架
