@@ -17,42 +17,37 @@
 ### js框架
 
 ------
-* [https://github.com/BinarCode/vue-notifyjs](https://github.com/BinarCode/vue-notifyjs)
-* [https://github.com/figuarnieri/maskfy](https://github.com/figuarnieri/maskfy)
+* [vue-notifyjs](https://github.com/BinarCode/vue-notifyjs): 极简的vue2消息组建
+* [maskfy](https://github.com/figuarnieri/maskfy): Input格式化插件，不依赖Vue，React等框架
 * [https://github.com/jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp)
-* 小巧的EventEmitter: [https://github.com/developit/mitt](https://github.com/developit/mitt)
 
 ### ui框架
 
 ------
-* [https://github.com/ghosh/microtip](https://github.com/ghosh/microtip)
-* [https://github.com/tipsy/bubbly-bg](https://github.com/tipsy/bubbly-bg)
-* [https://github.com/yisar/fre](https://github.com/yisar/fre)
+* [microtip](https://github.com/ghosh/microtip): 极小的 tooltip 组建
+* [bubbly-bg](https://github.com/tipsy/bubbly-bg): 生成气泡背景
+* [fre](https://github.com/yisar/fre): 极小的基于Fiber的并发渲染的UI框架
 
 
 ### 工具库
 
 ------
-* [https://github.com/drawcall/RAFManager](https://github.com/drawcall/RAFManager)
+* [RAFManager](https://github.com/drawcall/RAFManager): 管理requestAnimationFrame的工具
 * [https://github.com/ruyadorno/simple-slider](https://github.com/ruyadorno/simple-slider)
-* [https://github.com/viljamis/ResponsiveSlides.js](https://github.com/viljamis/ResponsiveSlides.js)
+* [ResponsiveSlides.js](https://github.com/viljamis/ResponsiveSlides.js): 轻量的Slide滑块组建
 * [https://github.com/kbrsh/wade](https://github.com/kbrsh/wade)
-* [https://github.com/hparton/zoetrope](https://github.com/hparton/zoetrope)
-* [https://github.com/developit/snarkdown](https://github.com/developit/snarkdown)
-* [vue-create-root](https://github.com/any86/vue-create-root)
-* markdown中网络图片替换为本地图片: [https://github.com/junbin123/load-markdown-image](https://github.com/junbin123/load-markdown-image)
-* 轻量的处理时间和日期的 JavaScript 库: [https://github.com/iamkun/dayjs](https://github.com/iamkun/dayjs)
-
-### 状态管理器
-
-------
-* [https://github.com/daniellmb/MinPubSub](https://github.com/daniellmb/MinPubSub)
-* [smox-Fast 1kB state management with prefect API](https://github.com/132yse/smox)
-* [一款纯净小巧的状态管理器，使用react-hooks原生实现，自动连接module组织架构](https://github.com/tnfe/clean-state)
-
+* [zoetrope](https://github.com/hparton/zoetrope): 基于requestAnimationFrame实现的JS动画库
+* [snarkdown](https://github.com/developit/snarkdown): markdown转换工具
+* [vue-create-root](https://github.com/any86/vue-create-root): 把vue组件变成this.$xxx命令
+* [load-markdown-image](https://github.com/junbin123/load-markdown-image): markdown中网络图片替换为本地图片
+* [dayjs](https://github.com/iamkun/dayjs): 轻量的处理时间和日期的 JavaScript 库
+* [MinPubSub](https://github.com/daniellmb/MinPubSub): 发布订阅模式的库
+* [asta](https://github.com/yisar/asta): web component编译工具
+* [clean-state](https://github.com/tnfe/clean-state): 一款纯净小巧的状态管理器，使用react-hooks原生实现，自动连接module组织架构
+* [mitt](https://github.com/developit/mitt): 小巧的EventEmitter
 
 ### 其他
 
 ------
-* [https://github.com/developit/undom](https://github.com/developit/undom)
+* [undom](https://github.com/developit/undom)
 
