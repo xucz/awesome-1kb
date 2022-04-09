@@ -20,6 +20,7 @@
 * [https://github.com/BinarCode/vue-notifyjs](https://github.com/BinarCode/vue-notifyjs)
 * [https://github.com/figuarnieri/maskfy](https://github.com/figuarnieri/maskfy)
 * [https://github.com/jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp)
+* 小巧的EventEmitter：[https://github.com/developit/mitt](https://github.com/developit/mitt)
 
 
 ### ui框架
