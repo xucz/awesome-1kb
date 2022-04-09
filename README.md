@@ -20,8 +20,7 @@
 * [https://github.com/BinarCode/vue-notifyjs](https://github.com/BinarCode/vue-notifyjs)
 * [https://github.com/figuarnieri/maskfy](https://github.com/figuarnieri/maskfy)
 * [https://github.com/jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp)
-* 小巧的EventEmitter：[https://github.com/developit/mitt](https://github.com/developit/mitt)
-
+* 小巧的EventEmitter: [https://github.com/developit/mitt](https://github.com/developit/mitt)
 
 ### ui框架
 
@@ -41,6 +40,8 @@
 * [https://github.com/hparton/zoetrope](https://github.com/hparton/zoetrope)
 * [https://github.com/developit/snarkdown](https://github.com/developit/snarkdown)
 * [vue-create-root](https://github.com/any86/vue-create-root)
+* markdown中网络图片替换为本地图片: [https://github.com/junbin123/load-markdown-image](https://github.com/junbin123/load-markdown-image)
+* 轻量的处理时间和日期的 JavaScript 库: [https://github.com/iamkun/dayjs](https://github.com/iamkun/dayjs)
 
 ### 状态管理器
 
