@@ -45,6 +45,7 @@
 * [asta](https://github.com/yisar/asta): web component编译工具
 * [clean-state](https://github.com/tnfe/clean-state): 一款纯净小巧的状态管理器，使用react-hooks原生实现，自动连接module组织架构
 * [mitt](https://github.com/developit/mitt): 小巧的EventEmitter
+* [video-snapshot](https://github.com/zzarcon/video-snapshot): 视频截帧
 
 ### 其他
 
